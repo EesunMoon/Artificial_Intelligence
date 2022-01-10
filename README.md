@@ -8,3 +8,5 @@
 - Sarsa
 - Q-learning
 6. 심층강화학습
+- DQN(Deep Q-Learning)
+- Deep Sarsa
