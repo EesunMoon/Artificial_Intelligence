@@ -8,5 +8,6 @@
 - Sarsa
 - Q-learning
 6. 심층강화학습
+<br> 실습 : Cliff Walking <br>
 - DQN(Deep Q-Learning)
 - Deep Sarsa
