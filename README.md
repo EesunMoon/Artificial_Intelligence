@@ -5,6 +5,7 @@
 3. 딥러닝 기초
 4. 최적화 기법
 5. 강화학습
+<br> 실습 : Cliff Walking <br>
 - Sarsa
 - Q-learning
 6. 심층강화학습
