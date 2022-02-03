@@ -1,8 +1,8 @@
 # Artificial_Intelligence
 [2021-2] 인공지능
 1. 기계학습 수학
-- 선형대수 : data
-- 확률과 통계
+- 선형대수 : data 다루기
+- 확률과 통계 : 예측 (classification / regression)
 - 정보이론 : entropy
 2. 퍼셉트론 및 다층신경망
 - 퍼셉트론
