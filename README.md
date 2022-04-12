@@ -9,7 +9,9 @@
 - 다층퍼셉트론(MLP)
 3. 딥러닝 기초
 4. 최적화 기법
-5. 강화학습
+5. CNN
+6. RNN, LSTM
+7. 강화학습
 <br> 실습 : Cliff Walking <br>
 - Sarsa
 - Q-learning
