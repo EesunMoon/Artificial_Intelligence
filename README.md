@@ -1,24 +1,14 @@
 # Artificial_Intelligence
+[Fall 2021]
 
 ## Overview
-|  | Concept | 
-|:---:|:---:|
-| 1 | Mathematics for Machine Learning
-- Linear Algebra : Handling data
-- Probability and Statistics : Prediction (classification / regression)
-- Information Theory : Entropy  |
-| 2 | Perceptron and Multilayer Neural Networks
-- Perceptron
-- Multilayer Neural Networks (MLP)  |
-| 3 | Introduction to Deep Learning  |
-| 4 | Optimization Techniques  |
-| 5 | Convolutional Neural Networks (CNN)  |
-| 6 | Recurrent Neural Networks (RNN), Long Short-Term Memeory (LSTM)  |
-| 7 | Reinforcement Learning
-<br> Practical Exercise : Cliff Walking <br>
-- Sarsa
-- Q-learning  |
-| 8 | Deep Reinforcement Learning
-<br> Practical Exercise : Cliff Walking <br>
-- DQN (Deep Q-Learning)
-- Deep Sarsa  |
+|  | Concept | Details |
+|:---:|:---:|:---:]
+| 1 | Mathematics for Machine Learning | <br> Linear Algebra : Handling data <br> <br> Probability and Statistics : Prediction (classification / regression) <br> <br> Information Theory : Entropy <br>  |
+| 2 | Perceptron and Multilayer Neural Networks | <br> Perceptron <br> <br> Multilayer Neural Networks (MLP) <br>  |
+| 3 | Introduction to Deep Learning  | |
+| 4 | Optimization Techniques  | |
+| 5 | Convolutional Neural Networks (CNN)  | |
+| 6 | Recurrent Neural Networks (RNN), Long Short-Term Memeory (LSTM)  | |
+| 7 | Reinforcement Learning | <br> Practical Exercise : Cliff Walking <br> <br> Sarsa <br> <br> Q-learning <br>  |
+| 8 | Deep Reinforcement Learning | <br> Practical Exercise : Cliff Walking <br> <br> DQN (Deep Q-Learning) <br> <br> Deep Sarsa <br>  |
